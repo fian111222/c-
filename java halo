@@ -1,0 +1,10 @@
+public class halojava {
+    public static  void main(String[]XX){
+        System.out.println("halo alifian");
+    }
+
+}
+
+
+run
+halo alifian
